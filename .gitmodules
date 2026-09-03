@@ -1,6 +1,6 @@
 [submodule "OcorrenciaBackEnd"]
 	path = OcorrenciaBackEnd
-	url = https://github.com/eduardofernandez197/OcorrenciaBackEnd.git
+	url = https://github.com/JamesGVidal/OcorrenciaBackEnd.git
 [submodule "OcorrenciaFrontEnd"]
 	path = OcorrenciaFrontEnd
-	url = https://github.com/eduardofernandez197/OcorrenciaFrontEnd.git
+	url = https://github.com/JamesGVidal/OcorrenciaFrontEnd.git
