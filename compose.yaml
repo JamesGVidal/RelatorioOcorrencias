@@ -30,7 +30,7 @@ services:
 
 
   backend:
-    image: ocorrencias-backend:test
+    image: tunerw/ocorrencias-backend:1.0.1
 
     container_name: ocorrencias-backend
 
@@ -51,7 +51,7 @@ services:
 
 
   frontend:
-    image: ocorrencias-frontend:test
+    image: tunerw/ocorrencias-frontend:1.0.0
 
     container_name: ocorrencias-frontend
 
